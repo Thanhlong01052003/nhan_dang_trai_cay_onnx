@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 import cv2
+import opencv-python-headless as cv2
 from PIL import Image
 st.title("Nhận dạng trái cây")
 
